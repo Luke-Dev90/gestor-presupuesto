@@ -1,0 +1,8 @@
+web\ServletControlador.class
+dominio\Usuario.class
+dominio\Operaciones.class
+datos\Conexion.class
+datos\UsuarioDao.class
+test.class
+datos\OperacionesDao.class
+datos\Iusuario.class
